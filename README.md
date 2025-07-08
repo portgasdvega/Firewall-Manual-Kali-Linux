@@ -1,7 +1,7 @@
 # Firewall-Manual-Kali-Linux
 Firewall manual con iptables e ip6tables- bloqueo total y restauracion de conexion
 
-# Bloqueo total de red en Kali Linux con IPTables
+## Bloqueo total y Restauracion de red en Kali Linux con IPTables
 
 Este repositorio contiene dos scripts para Kali Linux que permiten:
 
